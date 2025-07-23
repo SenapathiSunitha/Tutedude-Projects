@@ -1,0 +1,5 @@
+from math import *
+x=int(input("Enter a number:"))
+print("Square root:",sqrt(x))
+print("Logarithm:",log(x))
+print("Sine:",sin(x))
